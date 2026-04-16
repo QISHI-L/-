@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/26784702/README.md)
 # 咸鱼AI｜AI 原生助手
 
 > 面向闲鱼商家的智能运营后台，重点解决 **自动回复** 和 **自动发货** 两个高频问题，让店铺从“人盯人”转向“系统自动跑”。
